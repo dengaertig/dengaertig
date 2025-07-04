@@ -1,6 +1,6 @@
 # 🎮 Hi, I'm Dennis!
 
-I'm currently transitioning into software development as an **Application Developer** through an intensive retraining program. I primarily code in **C#** and love collaborating with friends—especially on projects in the **Godot engine**.
+I'm currently transitioning into software development as an **Software Developer** through an intensive retraining program. I primarily code in **C#** and love collaborating with friends—especially on projects in the **Godot engine**.
 
 ---
 
