@@ -47,7 +47,7 @@ During my internship at **RWE Renewables**, I gained extensive backend developme
 
 ## 📈 GitHub Stats
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma\&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=dengaertig\&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
