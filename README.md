@@ -1,65 +1,64 @@
-@dengaertig 🎮
+# 🎮 Hi, I'm Dennis!
 
-Hey there! I'm dengaertig, currently transitioning into software development through a retraining program as an Application Developer. I primarily invest my time coding in C# and enjoy collaborating on projects with friends—my current collaboration is in the Godot engine.
+I'm currently transitioning into software development as an **Application Developer** through an intensive retraining program. I primarily code in **C#** and love collaborating with friends—especially on projects in the **Godot engine**.
 
-🕹️ About Me
+---
 
-💻 Backend-focused developer with a passion for coding and gaming
+## 🕹️ About Me
 
-🎲 Huge fan of Steam games and cooperative gaming experiences
+* 🔧 **Backend-focused developer** passionate about coding and gaming.
+* 🎲 Huge fan of **Steam games**, especially cooperative and multiplayer experiences.
+* ⚙️ Actively gaining hands-on experience through real-world projects and retraining.
+* 👾 **Energy enthusiast**—fueling late-night coding sessions!
 
-⚙️ Currently gaining hands-on experience through a retraining program and real-world projects
+---
 
-☕ Coffee enthusiast, fueling late-night coding sessions
+## 🚀 My Tech Stack & Skills
 
-🚀 My Tech Stack & Skills
+| **Games I Enjoy**       | **Technologies & Tools**          |
+| ----------------------- | --------------------------------- |
+| RPGs, Coop, Indie       | C#, Godot, TypeScript, SQL, Azure |
+| Multiplayer Steam games | React, vite, Git, Azure DevOps |
 
-🎲 Games I enjoy
+---
 
-💻 Technologies I use
+## 💼 Internship Experience
 
-RPGs, Coop, Indie
+During my internship at **RWE Renewables**, I gained extensive backend development experience, including:
 
-C#, Godot, TypeScript, SQL, Azure
+* ✅ Developing dashboards and interfaces using **TypeScript, SQL, and C#**.
+* ✅ Implementing **Azure Functions** and handling integrations via **Azure Service Bus**.
+* ✅ Managing code with **Git** and deploying via CI/CD pipelines using **Azure DevOps**.
+* ✅ Active participation in SCRUM meetings and agile processes.
 
-Multiplayer Steam games
+---
 
-React, Node.js, Git
+## 🛠️ Featured Projects
 
-During my internship at RWE Renewables, I gained hands-on experience in backend development, including:
+* 🎲 [**JavaGameProject**](https://github.com/BlockBallsKing/JavaGameProject)
+* 🎲 [**GodotProjekt**](https://github.com/BlockBallsKing/GodotProjekt) 
+* 🎲 [**BlockBalls**](https://github.com/BlockBallsKing/BlockBalls) 
 
-    Developing dashboards and interfaces using TypeScript, SQL, and C#
+---
 
-    Implementing Azure Functions and handling Azure Service Bus integrations
+> **"Keep it simple, have fun, and level up your code!"**
 
-    Using Git for code management and Azure DevOps for CI/CD
+---
 
-    Active participation in SCRUM meetings and agile processes
+## 📈 GitHub Stats
 
-🔗 Featured Projects
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma\&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-🕹️ RetroArcade – Browser-based arcade game collection
+---
 
-🛠️ DevToolsSuite – Useful tools & scripts to boost productivity
+## 📬 Let's Connect!
 
-„Keep it simple, have fun, and level up your code!“
+I'm always open for collaboration or just some gaming sessions:
 
-📈 GitHub Stats
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-📬 Get in Touch!
-
-Feel free to reach out for collaboration or just gaming!
-
-Discord: [your_discord]
-
-Email: [your_email]
+* 📱 **Discord:** `kenkolino`
+* 📧 **Email:** `dengaertig@gmail.com`
 
 Happy coding and gaming! 🎮🚀
-
-dengaertig
 
 
 
