@@ -1,4 +1,4 @@
-# 🎮 Hi, I'm Dennis!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&weight=800&size=30&pause=2000&color=FFFFFF&width=435&lines=Hi%2C+I'm+Dennis!)](https://git.io/typing-svg)
 
 I'm currently transitioning into software development as an **Software Developer** through an intensive retraining program. I primarily code in **C#** and love collaborating with friends—especially on projects in the **Godot engine**.
 
