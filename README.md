@@ -15,10 +15,14 @@ I'm currently transitioning into software development as an **Software Developer
 
 ## 🚀 My Tech Stack & Skills
 
-| **Games I Enjoy**       | **Technologies & Tools**          |
-| ----------------------- | --------------------------------- |
-| RPGs, Coop, Indie       | C#, Godot, TypeScript, SQL, Azure |
-| Multiplayer Steam games | React, vite, Git, Azure DevOps |
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,postgres,prisma,cs,discord" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,postman,bots,dotnet,godot" />
+</p>
+
+<hr>
 
 ---
 
