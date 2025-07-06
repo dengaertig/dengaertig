@@ -18,7 +18,7 @@ I'm currently transitioning into software development as an **Software Developer
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,postgres,prisma,cs,discord" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,vite,postgres,prisma,cs,discord" />
   <img src="https://skillicons.dev/icons?i=html,css,js,git,postman,bots,dotnet,godot" />
 </p>
 
