@@ -1,71 +1,75 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&weight=800&size=30&pause=2000&color=FFFFFF&width=435&lines=Hi%2C+I'm+Dennis!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&weight=800&size=30&pause=2000&color=FFFFFF&width=435&lines=Hi%2C+I'm+Dennis!)](https://git.io/typing-svg)
+ 
+**Junior Software Developer — C# / .NET Backend**
 
-I'm currently transitioning into software development as an **Software Developer** through an intensive retraining program. I primarily code in **C#** and love collaborating with friends—especially on projects in the **Godot engine**.
-
----
-
-## 🕹️ About Me
-
-* 🔧 **Backend-focused developer** passionate about coding and gaming.
-* 🎲 Huge fan of **Steam games**, especially cooperative and multiplayer experiences.
-* ⚙️ Actively gaining hands-on experience through real-world projects and retraining.
-* 👾 **Energy enthusiast**—fueling late-night coding sessions!
+I’m currently completing my retraining as a **Software Developer in Germany ( Fachinformatiker - Anwendungsentwicklung )** and focusing on building clean and maintainable backend applications using **C# and .NET**.  
+My strengths lie in structured thinking, problem solving, and continuously improving my skills through real-world projects.
 
 ---
 
-## 🚀 My Tech Stack & Skills
+## 🧑‍💻 About Me
 
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,vite,postgres,prisma,cs,discord" />
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,postman,bots,dotnet,godot" />
-</p>
-
-<hr>
+- 🌱 Transitioning into professional software development  
+- 💡 Strong interest in **backend engineering, APIs, databases, and clean architecture**  
+- 🎯 Focused on **ASP.NET Core MVC, Entity Framework Core, and SQL**  
+- 🧩 Team-oriented, reliable, and eager to learn  
+- 🎮 In my free time: game development with **Godot** and coop gaming
 
 ---
 
-## 💼 Internship Experience
+## 🛠️ Tech Stack
 
-During my internship at **RWE Renewables**, I gained extensive backend development experience, including:
+**Backend & Frameworks**
+- C#, .NET 6–8  
+- ASP.NET Core MVC  
+- Entity Framework Core  
+- REST APIs
 
-* ✅ Developing dashboards and interfaces using **TypeScript, SQL, and C#**.
-* ✅ Implementing **Azure Functions** and handling integrations via **Azure Service Bus**.
-* ✅ Managing code with **Git** and deploying via CI/CD pipelines using **Azure DevOps**.
-* ✅ Active participation in SCRUM meetings and agile processes.
+**Databases**
+- PostgreSQL  
+- SQLite  
+- SQL basics, schema design, migrations
 
----
+**Tools & Workflow**
+- Git & GitHub  
+- Visual Studio / VS Code  
+- Postman  
+- SCRUM & agile workflows  
 
-## 🛠️ Featured Projects
-
-* 🎲 [**JavaGameProject**](https://github.com/BlockBallsKing/JavaGameProject)
-* 🎲 [**GodotProjekt**](https://github.com/BlockBallsKing/GodotProjekt) 
-* 🎲 [**BlockBalls**](https://github.com/BlockBallsKing/BlockBalls)
-
-* [Currently] [**SmartApply**]((https://github.com/dengaertig/SmartApply))
-
-
----
-
-> **"Keep it simple, have fun, and level up your code!"**
-
----
-
-## 📈 GitHub Stats
-
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=dengaertig\&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+**Other**
+- Godot Engine (GDScript / C#)  
+- HTML, CSS, basic JavaScript
 
 ---
 
-## 📬 Let's Connect!
+## 💼 Internship Experience — RWE Renewables
 
-I'm always open for collaboration or just some gaming sessions:
+During my internship, I gained hands-on experience in a professional development environment:
 
-* 📱 **Discord:** `kenkolino`
-* 📧 **Email:** `dengaertig@gmail.com`
+- Developed internal tools and backend components in **C# and SQL**  
+- Worked with APIs and data processing pipelines  
+- Collaborated using Git, Azure DevOps & CI/CD pipelines  
+- Participated in daily SCRUM meetings and agile workflows  
+- Improved debugging and problem-solving skills in a real project setup  
 
-Happy coding and gaming! 🎮🚀
+---
 
+## 🎯 What I'm Currently Working On
 
+- Improving my .NET backend architecture skills  
+- Building structured applications using services, repositories & ViewModels  
+- Strengthening SQL & EF Core knowledge  
+- Developing more robust Godot systems for personal game projects  
 
+---
+
+## 📬 Contact
+
+Feel free to reach out — I’m always open for collaboration, feedback, or networking.
+
+**📧 Email:** dengaertig@gmail.com  
+**🎮 Discord:** kenkolino  
+
+---
+
+> _“I believe in learning by doing — and improving one step at a time.”_
