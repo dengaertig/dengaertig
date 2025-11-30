@@ -19,6 +19,10 @@ My strengths lie in structured thinking, problem solving, and continuously impro
 
 ## 🛠️ Tech Stack
 
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,cs,dotnet,sqlite,git,github,postman,vscode" alt="Tech Stack">
+</p>
+
 **Backend & Frameworks**
 - C#, .NET 6–8  
 - ASP.NET Core MVC  
@@ -39,6 +43,15 @@ My strengths lie in structured thinking, problem solving, and continuously impro
 **Other**
 - Godot Engine (GDScript / C#)  
 - HTML, CSS, basic JavaScript
+
+---
+
+<p>
+<a href="https://github.com/dengaertig">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dengaertig&theme=blueberry" 
+               alt="GitHub Languages Used in repositories">
+</a>
+</p>
 
 ---
 
