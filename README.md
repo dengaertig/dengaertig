@@ -66,7 +66,7 @@ During my internship, I gained hands-on experience in a professional development
 ##  Contact
 
 Feel free to reach out — I’m always open for collaboration, feedback, or networking.
-
+** Website:** www.dennis-gaertig.de
 ** Email:** dengaertig@gmail.com  
 ** Discord:** kenkolino  
 
