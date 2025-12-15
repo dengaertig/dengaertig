@@ -7,17 +7,17 @@ My strengths lie in structured thinking, problem solving, and continuously impro
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
-- 🌱 Transitioning into professional software development  
-- 💡 Strong interest in **backend engineering, APIs, databases, and clean architecture**  
-- 🎯 Focused on **ASP.NET Core MVC, Entity Framework Core, and SQL**  
-- 🧩 Team-oriented, reliable, and eager to learn  
-- 🎮 In my free time: game development with **Godot** and coop gaming
+-  Transitioning into professional software development  
+-  Strong interest in **backend engineering, APIs, databases, and clean architecture**  
+-  Focused on **ASP.NET Core MVC, Entity Framework Core, and SQL**  
+-  Team-oriented, reliable, and eager to learn  
+-  In my free time: game development with **Godot** and coop gaming
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Backend & Frameworks**
 - C#, .NET 6–8  
@@ -42,7 +42,7 @@ My strengths lie in structured thinking, problem solving, and continuously impro
 
 ---
 
-## 💼 Internship Experience — RWE Renewables
+##  Internship Experience — RWE Renewables
 
 During my internship, I gained hands-on experience in a professional development environment:
 
@@ -54,7 +54,7 @@ During my internship, I gained hands-on experience in a professional development
 
 ---
 
-## 🎯 What I'm Currently Working On
+##  What I'm Currently Working On
 
 - Improving my .NET backend architecture skills  
 - Building structured applications using services, repositories & ViewModels  
@@ -63,12 +63,12 @@ During my internship, I gained hands-on experience in a professional development
 
 ---
 
-## 📬 Contact
+##  Contact
 
 Feel free to reach out — I’m always open for collaboration, feedback, or networking.
 
-**📧 Email:** dengaertig@gmail.com  
-**🎮 Discord:** kenkolino  
+** Email:** dengaertig@gmail.com  
+** Discord:** kenkolino  
 
 ---
 
