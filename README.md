@@ -42,7 +42,7 @@ My strengths lie in structured thinking, problem solving, and continuously impro
 
 ---
 
-##  Internship Experience — RWE Renewables
+##  Workingstudent Experience — RWE Renewables
 
 During my internship, I gained hands-on experience in a professional development environment:
 
